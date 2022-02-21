@@ -1,0 +1,18 @@
+manual:
+
+(on pc)
+-make a new folder and name it to "( gnirehtet )".
+-extract the 2 zip file.
+-paste the extract of the 2 zip file to gnirehtet folder.
+
+(on phone)
+-plug the android phone using usb cable on your pc
+-go to developer option and enable "usb debugging".
+
+(on pc)
+-run the cmd or command prompt
+-type "cd (the location of gnirehtet file")
+  -example: "cd desktop/gnirehtet" or "cd gnirehtet"
+-type "install gnirehtet"
+-if the message success.
+-then type "gnirehtet run"
